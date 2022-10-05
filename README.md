@@ -9,4 +9,7 @@
 # Activity 4
 ![Activity 4-1](./Images/Activity4-1.png)
 
+More log output:
+![Activity 4-1-1](./Images/Activity4-1-1.png)
+
 ![Activity 4-2](./Images/Activity4-2.png)
